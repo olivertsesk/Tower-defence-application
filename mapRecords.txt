@@ -1,0 +1,17 @@
+test1
+test2
+test3
+10x10
+test5
+test6
+Map 1
+test7
+test10
+funmap
+funmap2
+test8
+test9
+test11
+20x20
+big
+map
